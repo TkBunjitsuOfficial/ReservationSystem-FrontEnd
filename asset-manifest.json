@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.3efb6d53.chunk.css",
-  "main.js": "/static/js/main.4d2c7024.chunk.js",
-  "main.js.map": "/static/js/main.4d2c7024.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.6f1ffd0a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.6f1ffd0a.js.map",
-  "static/js/2.82dfa245.chunk.js": "/static/js/2.82dfa245.chunk.js",
-  "static/js/2.82dfa245.chunk.js.map": "/static/js/2.82dfa245.chunk.js.map",
-  "static/js/3.e5ec95a6.chunk.js": "/static/js/3.e5ec95a6.chunk.js",
-  "static/js/3.e5ec95a6.chunk.js.map": "/static/js/3.e5ec95a6.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.84a8252d0fe59a09c4ba06ffa0c82fa2.js": "/precache-manifest.84a8252d0fe59a09c4ba06ffa0c82fa2.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.3efb6d53.chunk.css.map": "/static/css/main.3efb6d53.chunk.css.map"
+  "main.css": "/ReservationSystem/static/css/main.3efb6d53.chunk.css",
+  "main.js": "/ReservationSystem/static/js/main.4d2c7024.chunk.js",
+  "main.js.map": "/ReservationSystem/static/js/main.4d2c7024.chunk.js.map",
+  "runtime~main.js": "/ReservationSystem/static/js/runtime~main.df557bfe.js",
+  "runtime~main.js.map": "/ReservationSystem/static/js/runtime~main.df557bfe.js.map",
+  "static/js/2.82dfa245.chunk.js": "/ReservationSystem/static/js/2.82dfa245.chunk.js",
+  "static/js/2.82dfa245.chunk.js.map": "/ReservationSystem/static/js/2.82dfa245.chunk.js.map",
+  "static/js/3.e5ec95a6.chunk.js": "/ReservationSystem/static/js/3.e5ec95a6.chunk.js",
+  "static/js/3.e5ec95a6.chunk.js.map": "/ReservationSystem/static/js/3.e5ec95a6.chunk.js.map",
+  "index.html": "/ReservationSystem/index.html",
+  "precache-manifest.3f6dab876d195d899ea24f76f06d4b4a.js": "/ReservationSystem/precache-manifest.3f6dab876d195d899ea24f76f06d4b4a.js",
+  "service-worker.js": "/ReservationSystem/service-worker.js",
+  "static/css/main.3efb6d53.chunk.css.map": "/ReservationSystem/static/css/main.3efb6d53.chunk.css.map"
 }
