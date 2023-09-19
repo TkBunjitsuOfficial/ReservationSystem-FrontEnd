@@ -1,0 +1,16 @@
+.MuiFormControl-root {
+	text-align: left;
+	width: 194px;
+}
+
+.MuiSelect-select {
+	width: 194px;
+}
+
+.input-box {
+	margin: 10px auto;
+}
+
+.select-box {
+	margin: 20px auto;
+}

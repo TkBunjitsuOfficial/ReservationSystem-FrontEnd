@@ -1,0 +1,20 @@
+#ticket-div {
+	text-align: center;
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+}
+
+#ticket {
+	width: 312px;
+	height: 675.2px;
+}
+
+#save-button {
+	display: block;
+	margin: 20px auto;
+}
+
+.warning-span {
+	display: inline-block;
+}

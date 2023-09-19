@@ -1,0 +1,29 @@
+.form-box {
+	width: 95%;
+}
+
+.form-paper {
+	margin: 3%;
+	padding: 20px;
+	padding-right: 10px;
+}
+
+.send-button {
+	text-align: center;
+	margin: 10px;
+}
+
+.student-info {
+	display: inline-block;
+	margin: 5px;
+}
+
+.g-recaptcha {
+	margin: 10px;
+}
+
+.g-recaptcha div {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
